@@ -4,7 +4,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: Delete Media without moving to Recently Deleted! (iOS 15-26)
 Maintainer: Qn
-Author: P2KDev <p2kdev@gmail.com>
+Author: Qn
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: com.p2kdev.deleteforeverxs
